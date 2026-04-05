@@ -1,8 +1,6 @@
 # ProjectWebAPI-citruscafe-api-
 RESTful API project with frontend and database
 
-# Project Web API - Citrus Cafe
-
 ## 📌 Description
 This project is a RESTful API system developed for Citrus Cafe. It allows users to place orders, process payments, and receive email receipts.
 
