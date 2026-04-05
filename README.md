@@ -18,9 +18,14 @@ This project is a RESTful API system developed for Citrus Cafe. It allows users 
 The database file is included in the /database folder.
 
 ## 💻 How to Run
-1. Import the SQL file into phpMyAdmin
-2. Run the project using localhost (XAMPP)
-3. Test API using Postman or browser
+1. Extract citruscafe-api.zip into htdocs (XAMPP)
+2. Import dbcitruscafe_api.sql into phpMyAdmin
+3. Start Apache and MySQL in XAMPP
+4. Open in browser:
+   http://localhost/citruscafe-api/
+
+Note:
+Insert your own SendGrid API key in send_receipt_email.php to enable email function if the receipt not appear in email/spam.
 
 ## 👩‍💻 Author
 Eliya Husna
